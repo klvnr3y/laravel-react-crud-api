@@ -14,10 +14,10 @@ composer install
 composer update (if needed)
 ```
 
-#### setup .env file or copy .env.example and rename into .env and setup database name
+#### setup .env file
 
 ```
-cp .env.example .env
+copy .env.example and rename into .env and setup database name
 ```
 
 #### Set Database Name
